@@ -51,4 +51,4 @@ finalData <- merge(activity_labels, extractedData, by="activityId")
 
 # Create a second, independent tidy data set with the average of each variable for each activity and each subject
 tidyData <- ddply(finalData, .(subjectId, activityLabel), function(x) colMeans(x[, 4:69]))
-write.table(tidyData, file="../tidy_data.txt", row.names=FALSE, col.names=TRUE, sep=",")
+write.table(tidyData, file="../tidy_data.txt", row.names=FALSE, col.names=TRUE, sep=" ")
