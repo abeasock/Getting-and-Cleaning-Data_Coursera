@@ -1,6 +1,8 @@
-# Getting and Cleaning Data-Coursera
+# Getting and Cleaning Data
+**Johns Hopkins University on Coursera**  
+**December 2015**
 
-This course featured one projects. My projects can be viewed in the the folder "Course_Project." 
+My project for this course can be viewed in the the folder "Course_Project" located within this folder. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
