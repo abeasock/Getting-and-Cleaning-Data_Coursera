@@ -1,6 +1,6 @@
 # Getting and Cleaning Data-Coursera
 
-This course featured two projects. My projects can be viewed in the the folders "Course_Project_1" and "Course_Project_2." 
+This course featured one projects. My projects can be viewed in the the folder "Course_Project." 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
